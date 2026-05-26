@@ -8,7 +8,7 @@ As the name of the file suggests this will be a tracker for programming books op
 
 ## Currently Reading
 
-**[The Markdown Guide](https://www.markdownguide.org/book/)**
+***[The Markdown Guide](https://www.markdownguide.org/book/)***
 
 
 
